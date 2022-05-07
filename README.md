@@ -15,9 +15,9 @@
   
 ##
   
-  <a href="https://github.com/Carol-Ramos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carol-Ramos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-Ramos&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/Caroline-crs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caroline-crs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-crs&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   <h1><p align="left">• Languages and Tools 🛠</p></h1>
@@ -38,12 +38,12 @@
 ###
   
 <div> 
-  <a href = "carolineramos98@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href = "carolineramos98@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/caroline-ramos-345654168/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href = "(11)997732698"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   
   
-  ![Snake animation](https://github.com/Carol-Ramos/Carol-Ramos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Caroline-crs/Caroline-crs/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 <hr>
