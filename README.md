@@ -2,7 +2,7 @@
 <img src="https://media.tenor.co/images/b7a43f2a884a5469c505b3b0838b6aa2/tenor.gif">
   </div>
 
-## <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"> Eu me chamo Carol, 24y ⚡</h1>
+## <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu me chamo Carol, 24y ⚡</h1>
 
 
 - 🏢 Desenvolvedora C# Jr. - Foursys
