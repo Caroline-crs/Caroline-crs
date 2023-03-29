@@ -35,8 +35,14 @@
     <a href="#">
       <img align="center" alt="Logo do C#" height="30" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     </a>
+     <a href="#">
+      <img align="center" alt="Logo do .NET" height="30" width="40" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    </a>
     <a href="#">
       <img align="center" alt="Logo do Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    </a>
+     <a href="#">
+      <img align="center" alt="Logo do SQL Server" height="30" width="40" title="SQLServer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
     </a>
     <a href="#">
       <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
@@ -52,6 +58,16 @@
     </a>
      <a href="#">
       <img align="center" alt="Logo do Azure" height="30" width="40" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> 
+    </a>
+     </a>
+     <a href="#">
+      <img align="center" alt="Logo do Visual Studio" height="30" width="40" title="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"> 
+    </a>
+     <a href="#">
+      <img align="center" alt="Logo do VSCode" height="30" width="40" title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
+    </a>
+     <a href="#">
+      <img align="center" alt="Logo do Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"> 
     </a>
   </p>
 </div>
