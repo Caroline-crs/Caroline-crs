@@ -86,9 +86,11 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 
- <div align="center"> 
-   ![Snake animation](https://github.com/Caroline-crs/Caroline-crs/blob/output/github-contribution-grid-snake.svg)
-  </div>
+<div align="center"> 
+  
+  ![Snake animation](https://github.com/Caroline-crs/Caroline-crs/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
   
 **<h3><p align="center">Total de Visitas no Perfil</p></h3>**
 <p align="center">
