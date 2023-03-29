@@ -8,7 +8,7 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeffersonrpm&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=caroline-crs&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
   </a>
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-crs&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
